@@ -1,1 +1,1 @@
-# projet_nancy
+backend django projet de vente de surplus alimentaire
